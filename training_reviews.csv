@@ -1,0 +1,241 @@
+review_id,date,channel,rating,review,category,sentiment
+TRAIN-0102,2026-09-06,Mobile app,2,Support never replied to my email.,Customer service,negative
+TRAIN-0047,2026-09-15,Retail store,5,The delivery tracking was clear and accurate. I have been a customer for years.,Delivery,positive
+TRAIN-0166,2026-09-06,Mobile app,3,My exchange request is being processed.,Returns & refunds,neutral
+TRAIN-0088,2026-09-08,Email survey,5,The product feels sturdy and carefully made. This was for a gift.,Product quality,positive
+TRAIN-0235,2026-09-11,Retail store,5,The app is intuitive and ordering was very easy.,Website & checkout,positive
+TRAIN-0237,2026-09-13,Online store,5,Checkout was quick and effortless. This was for a gift.,Website & checkout,positive
+TRAIN-0130,2026-09-02,Mobile app,5,"The representative was patient, professional and helpful. I purchased this last month.",Customer service,positive
+TRAIN-0171,2026-09-11,Retail store,3,The refund policy is shown on the receipt.,Returns & refunds,neutral
+TRAIN-0192,2026-09-16,Email survey,5,The return was easy and my refund arrived quickly.,Returns & refunds,positive
+TRAIN-0140,2026-09-12,Email survey,5,Fantastic service and a quick response. I purchased this last month.,Customer service,positive
+TRAIN-0129,2026-09-01,Online store,5,The support team solved my issue immediately.,Customer service,positive
+TRAIN-0150,2026-09-06,Mobile app,1,My refund is still pending after several weeks.,Returns & refunds,negative
+TRAIN-0082,2026-09-02,Mobile app,5,The product feels sturdy and carefully made. I purchased this last month.,Product quality,positive
+TRAIN-0006,2026-09-06,Mobile app,1,My parcel arrived a week late and nobody updated me.,Delivery,negative
+TRAIN-0090,2026-09-10,Mobile app,4,Excellent craftsmanship and a beautiful finish. I have been a customer for years.,Product quality,positive
+TRAIN-0100,2026-09-04,Email survey,2,Nobody could explain what happened with my request. It was my first order.,Customer service,negative
+TRAIN-0077,2026-09-13,Online store,3,The product matches the listed specifications. This was for a gift.,Product quality,neutral
+TRAIN-0004,2026-09-04,Email survey,2,Shipping took much longer than the estimated date. It was my first order.,Delivery,negative
+TRAIN-0027,2026-09-11,Retail store,3,Shipping information was available in the account.,Delivery,neutral
+TRAIN-0170,2026-09-10,Mobile app,3,I requested a return label through the website. I have been a customer for years.,Returns & refunds,neutral
+TRAIN-0207,2026-09-15,Retail store,2,The app freezes whenever I try to place an order. I have been a customer for years.,Website & checkout,negative
+TRAIN-0021,2026-09-05,Online store,3,Shipping information was available in the account. I have been a customer for years.,Delivery,neutral
+TRAIN-0175,2026-09-15,Retail store,3,My exchange request is being processed. I have been a customer for years.,Returns & refunds,neutral
+TRAIN-0055,2026-09-07,Retail store,1,The material feels cheap compared with the description. I purchased this last month.,Product quality,negative
+TRAIN-0089,2026-09-09,Online store,4,Quality exceeded my expectations. It was my first order.,Product quality,positive
+TRAIN-0085,2026-09-05,Online store,4,The product feels sturdy and carefully made. I have been a customer for years.,Product quality,positive
+TRAIN-0109,2026-09-13,Online store,1,I was transferred between representatives four times. This was for a gift.,Customer service,negative
+TRAIN-0154,2026-09-10,Mobile app,1,I sent the item back but have no reimbursement. I have been a customer for years.,Returns & refunds,negative
+TRAIN-0034,2026-09-02,Mobile app,5,My order arrived earlier than expected. I purchased this last month.,Delivery,positive
+TRAIN-0164,2026-09-04,Email survey,3,I requested a return label through the website. It was my first order.,Returns & refunds,neutral
+TRAIN-0147,2026-09-03,Retail store,1,I was charged for a return that should be free. This was for a gift.,Returns & refunds,negative
+TRAIN-0114,2026-09-02,Mobile app,3,The agent explained the return policy. I purchased this last month.,Customer service,neutral
+TRAIN-0214,2026-09-06,Mobile app,3,I browsed the online catalog and checked out.,Website & checkout,neutral
+TRAIN-0180,2026-09-04,Email survey,5,The return was easy and my refund arrived quickly. It was my first order.,Returns & refunds,positive
+TRAIN-0116,2026-09-04,Email survey,3,I contacted customer support about my order. It was my first order.,Customer service,neutral
+TRAIN-0008,2026-09-08,Email survey,1,The courier marked my order delivered but I never received it. This was for a gift.,Delivery,negative
+TRAIN-0041,2026-09-09,Online store,5,The delivery tracking was clear and accurate. It was my first order.,Delivery,positive
+TRAIN-0143,2026-09-15,Retail store,5,Fantastic service and a quick response. I have been a customer for years.,Customer service,positive
+TRAIN-0059,2026-09-11,Retail store,1,The stitching came apart after two uses.,Product quality,negative
+TRAIN-0163,2026-09-03,Retail store,3,My exchange request is being processed. This was for a gift.,Returns & refunds,neutral
+TRAIN-0101,2026-09-05,Online store,1,I waited days for a simple answer. I have been a customer for years.,Customer service,negative
+TRAIN-0179,2026-09-03,Retail store,5,I appreciated the hassle-free reimbursement. This was for a gift.,Returns & refunds,positive
+TRAIN-0125,2026-09-13,Online store,3,I contacted customer support about my order. This was for a gift.,Customer service,neutral
+TRAIN-0038,2026-09-06,Mobile app,5,The delivery tracking was clear and accurate.,Delivery,positive
+TRAIN-0209,2026-09-01,Online store,3,I placed my order using the mobile application.,Website & checkout,neutral
+TRAIN-0146,2026-09-02,Mobile app,1,The return label did not work and I received no help. I purchased this last month.,Returns & refunds,negative
+TRAIN-0168,2026-09-08,Email survey,3,The refund policy is shown on the receipt. This was for a gift.,Returns & refunds,neutral
+TRAIN-0094,2026-09-14,Mobile app,5,The product feels sturdy and carefully made. It was my first order.,Product quality,positive
+TRAIN-0228,2026-09-04,Email survey,5,Checkout was quick and effortless. It was my first order.,Website & checkout,positive
+TRAIN-0195,2026-09-03,Retail store,1,My payment failed even though my card works elsewhere. This was for a gift.,Website & checkout,negative
+TRAIN-0035,2026-09-03,Retail store,4,The delivery tracking was clear and accurate. This was for a gift.,Delivery,positive
+TRAIN-0215,2026-09-07,Retail store,3,I placed my order using the mobile application. I purchased this last month.,Website & checkout,neutral
+TRAIN-0093,2026-09-13,Online store,5,Excellent craftsmanship and a beautiful finish. This was for a gift.,Product quality,positive
+TRAIN-0230,2026-09-06,Mobile app,5,The website worked perfectly from browsing to payment.,Website & checkout,positive
+TRAIN-0194,2026-09-02,Mobile app,2,The website is confusing and I could not apply my discount. I purchased this last month.,Website & checkout,negative
+TRAIN-0058,2026-09-10,Mobile app,2,Quality was disappointing for the price. I have been a customer for years.,Product quality,negative
+TRAIN-0037,2026-09-05,Online store,5,My order arrived earlier than expected. I have been a customer for years.,Delivery,positive
+TRAIN-0234,2026-09-10,Mobile app,4,Checkout was quick and effortless. I have been a customer for years.,Website & checkout,positive
+TRAIN-0039,2026-09-07,Retail store,5,Delivery was incredibly fast and everything arrived safely. I purchased this last month.,Delivery,positive
+TRAIN-0159,2026-09-15,Retail store,1,I sent the item back but have no reimbursement. I have been a customer for years.,Returns & refunds,negative
+TRAIN-0016,2026-09-16,Email survey,2,My parcel arrived two days late and nobody updated me.,Delivery,negative
+TRAIN-0110,2026-09-14,Mobile app,1,Nobody could explain what happened with my request. It was my first order.,Customer service,negative
+TRAIN-0025,2026-09-09,Online store,3,I received the delivery this morning. It was my first order.,Delivery,neutral
+TRAIN-0078,2026-09-14,Mobile app,3,The item is usable and looks like the photos. It was my first order.,Product quality,neutral
+TRAIN-0222,2026-09-14,Mobile app,3,The website shows available payment options. It was my first order.,Website & checkout,neutral
+TRAIN-0033,2026-09-01,Online store,4,Delivery was incredibly fast and everything arrived safely.,Delivery,positive
+TRAIN-0186,2026-09-10,Mobile app,5,The return was easy and my refund arrived quickly. I have been a customer for years.,Returns & refunds,positive
+TRAIN-0219,2026-09-11,Retail store,3,The website shows available payment options.,Website & checkout,neutral
+TRAIN-0123,2026-09-11,Retail store,3,The agent explained the return policy.,Customer service,neutral
+TRAIN-0157,2026-09-13,Online store,1,I was charged for a return that should be free. This was for a gift.,Returns & refunds,negative
+TRAIN-0201,2026-09-09,Online store,2,The shopping cart emptied unexpectedly. It was my first order.,Website & checkout,negative
+TRAIN-0054,2026-09-06,Mobile app,1,The stitching came apart after two uses.,Product quality,negative
+TRAIN-0239,2026-09-15,Retail store,4,The website worked perfectly from browsing to payment. I have been a customer for years.,Website & checkout,positive
+TRAIN-0148,2026-09-04,Email survey,2,The refund process is confusing and slow. It was my first order.,Returns & refunds,negative
+TRAIN-0216,2026-09-08,Email survey,3,The website shows available payment options. This was for a gift.,Website & checkout,neutral
+TRAIN-0001,2026-09-01,Online store,1,My parcel arrived two days late and nobody updated me.,Delivery,negative
+TRAIN-0018,2026-09-02,Mobile app,3,Shipping information was available in the account. I purchased this last month.,Delivery,neutral
+TRAIN-0015,2026-09-15,Retail store,2,I had to chase the carrier twice for my package. I have been a customer for years.,Delivery,negative
+TRAIN-0071,2026-09-07,Retail store,3,The product matches the listed specifications. I purchased this last month.,Product quality,neutral
+TRAIN-0127,2026-09-15,Retail store,3,Customer service provided standard instructions. I have been a customer for years.,Customer service,neutral
+TRAIN-0169,2026-09-09,Online store,3,My exchange request is being processed. It was my first order.,Returns & refunds,neutral
+TRAIN-0042,2026-09-10,Mobile app,5,Delivery was incredibly fast and everything arrived safely. I have been a customer for years.,Delivery,positive
+TRAIN-0176,2026-09-16,Email survey,3,I requested a return label through the website.,Returns & refunds,neutral
+TRAIN-0203,2026-09-11,Retail store,1,Checkout crashed twice when I tried to pay.,Website & checkout,negative
+TRAIN-0117,2026-09-05,Online store,3,The agent explained the return policy. I have been a customer for years.,Customer service,neutral
+TRAIN-0131,2026-09-03,Retail store,5,Fantastic service and a quick response. This was for a gift.,Customer service,positive
+TRAIN-0073,2026-09-09,Online store,3,The finish is acceptable for daily use. It was my first order.,Product quality,neutral
+TRAIN-0138,2026-09-10,Mobile app,4,The support team solved my issue immediately. I have been a customer for years.,Customer service,positive
+TRAIN-0240,2026-09-16,Email survey,4,Checkout was quick and effortless.,Website & checkout,positive
+TRAIN-0045,2026-09-13,Online store,5,Delivery was incredibly fast and everything arrived safely. This was for a gift.,Delivery,positive
+TRAIN-0003,2026-09-03,Retail store,2,The courier marked my order delivered but I never received it. This was for a gift.,Delivery,negative
+TRAIN-0190,2026-09-14,Mobile app,4,The exchange process was smooth and convenient. It was my first order.,Returns & refunds,positive
+TRAIN-0119,2026-09-07,Retail store,3,I contacted customer support about my order. I purchased this last month.,Customer service,neutral
+TRAIN-0172,2026-09-12,Email survey,3,My exchange request is being processed. I purchased this last month.,Returns & refunds,neutral
+TRAIN-0084,2026-09-04,Email survey,4,Excellent craftsmanship and a beautiful finish. It was my first order.,Product quality,positive
+TRAIN-0231,2026-09-07,Retail store,5,Checkout was quick and effortless. I purchased this last month.,Website & checkout,positive
+TRAIN-0196,2026-09-04,Email survey,1,The shopping cart emptied unexpectedly. It was my first order.,Website & checkout,negative
+TRAIN-0052,2026-09-04,Email survey,1,The product arrived scratched and poorly finished. It was my first order.,Product quality,negative
+TRAIN-0139,2026-09-11,Retail store,4,"The representative was patient, professional and helpful.",Customer service,positive
+TRAIN-0097,2026-09-01,Online store,1,Support never replied to my email.,Customer service,negative
+TRAIN-0065,2026-09-01,Online store,3,The product matches the listed specifications.,Product quality,neutral
+TRAIN-0026,2026-09-10,Mobile app,3,My package arrived on the expected day. I have been a customer for years.,Delivery,neutral
+TRAIN-0112,2026-09-16,Email survey,2,Support never replied to my email.,Customer service,negative
+TRAIN-0106,2026-09-10,Mobile app,2,I waited days for a simple answer. I have been a customer for years.,Customer service,negative
+TRAIN-0031,2026-09-15,Retail store,3,I received the delivery this morning. I have been a customer for years.,Delivery,neutral
+TRAIN-0158,2026-09-14,Mobile app,2,The refund process is confusing and slow. It was my first order.,Returns & refunds,negative
+TRAIN-0023,2026-09-07,Retail store,3,My package arrived on the expected day. I purchased this last month.,Delivery,neutral
+TRAIN-0080,2026-09-16,Email survey,3,The product matches the listed specifications.,Product quality,neutral
+TRAIN-0087,2026-09-07,Retail store,5,Excellent craftsmanship and a beautiful finish. I purchased this last month.,Product quality,positive
+TRAIN-0057,2026-09-09,Online store,1,The product arrived scratched and poorly finished. It was my first order.,Product quality,negative
+TRAIN-0173,2026-09-13,Online store,3,I requested a return label through the website. This was for a gift.,Returns & refunds,neutral
+TRAIN-0137,2026-09-09,Online store,4,Fantastic service and a quick response. It was my first order.,Customer service,positive
+TRAIN-0050,2026-09-02,Mobile app,1,The material feels cheap compared with the description. I purchased this last month.,Product quality,negative
+TRAIN-0182,2026-09-06,Mobile app,5,I appreciated the hassle-free reimbursement.,Returns & refunds,positive
+TRAIN-0161,2026-09-01,Online store,3,I requested a return label through the website.,Returns & refunds,neutral
+TRAIN-0204,2026-09-12,Email survey,2,The website is confusing and I could not apply my discount. I purchased this last month.,Website & checkout,negative
+TRAIN-0181,2026-09-05,Online store,4,The exchange process was smooth and convenient. I have been a customer for years.,Returns & refunds,positive
+TRAIN-0133,2026-09-05,Online store,5,"The representative was patient, professional and helpful. I have been a customer for years.",Customer service,positive
+TRAIN-0060,2026-09-12,Email survey,1,The material feels cheap compared with the description. I purchased this last month.,Product quality,negative
+TRAIN-0165,2026-09-05,Online store,3,The refund policy is shown on the receipt. I have been a customer for years.,Returns & refunds,neutral
+TRAIN-0160,2026-09-16,Email survey,2,My refund is still pending after several weeks.,Returns & refunds,negative
+TRAIN-0208,2026-09-16,Email survey,1,Checkout crashed twice when I tried to pay.,Website & checkout,negative
+TRAIN-0046,2026-09-14,Mobile app,4,My order arrived earlier than expected. It was my first order.,Delivery,positive
+TRAIN-0070,2026-09-06,Mobile app,3,The finish is acceptable for daily use.,Product quality,neutral
+TRAIN-0200,2026-09-08,Email survey,2,My payment failed even though my card works elsewhere. This was for a gift.,Website & checkout,negative
+TRAIN-0105,2026-09-09,Online store,1,Nobody could explain what happened with my request. It was my first order.,Customer service,negative
+TRAIN-0217,2026-09-09,Online store,3,I browsed the online catalog and checked out. It was my first order.,Website & checkout,neutral
+TRAIN-0061,2026-09-13,Online store,1,The item broke after just one week. This was for a gift.,Product quality,negative
+TRAIN-0156,2026-09-12,Email survey,2,The return label did not work and I received no help. I purchased this last month.,Returns & refunds,negative
+TRAIN-0019,2026-09-03,Retail store,3,I received the delivery this morning. This was for a gift.,Delivery,neutral
+TRAIN-0067,2026-09-03,Retail store,3,The finish is acceptable for daily use. This was for a gift.,Product quality,neutral
+TRAIN-0233,2026-09-09,Online store,5,The website worked perfectly from browsing to payment. It was my first order.,Website & checkout,positive
+TRAIN-0012,2026-09-12,Email survey,2,"The delivery was delayed a week, which was frustrating. I purchased this last month.",Delivery,negative
+TRAIN-0074,2026-09-10,Mobile app,3,The product matches the listed specifications. I have been a customer for years.,Product quality,neutral
+TRAIN-0167,2026-09-07,Retail store,3,I requested a return label through the website. I purchased this last month.,Returns & refunds,neutral
+TRAIN-0053,2026-09-05,Online store,1,Quality was disappointing for the price. I have been a customer for years.,Product quality,negative
+TRAIN-0072,2026-09-08,Email survey,3,The item is usable and looks like the photos. This was for a gift.,Product quality,neutral
+TRAIN-0017,2026-09-01,Online store,3,My package arrived on the expected day.,Delivery,neutral
+TRAIN-0162,2026-09-02,Mobile app,3,The refund policy is shown on the receipt. I purchased this last month.,Returns & refunds,neutral
+TRAIN-0024,2026-09-08,Email survey,3,Shipping information was available in the account. This was for a gift.,Delivery,neutral
+TRAIN-0075,2026-09-11,Retail store,3,The item is usable and looks like the photos.,Product quality,neutral
+TRAIN-0013,2026-09-13,Online store,2,The courier marked my order delivered but I never received it. This was for a gift.,Delivery,negative
+TRAIN-0206,2026-09-14,Mobile app,1,The shopping cart emptied unexpectedly. It was my first order.,Website & checkout,negative
+TRAIN-0213,2026-09-05,Online store,3,The website shows available payment options. I have been a customer for years.,Website & checkout,neutral
+TRAIN-0199,2026-09-07,Retail store,2,The website is confusing and I could not apply my discount. I purchased this last month.,Website & checkout,negative
+TRAIN-0224,2026-09-16,Email survey,3,I placed my order using the mobile application.,Website & checkout,neutral
+TRAIN-0212,2026-09-04,Email survey,3,I placed my order using the mobile application. It was my first order.,Website & checkout,neutral
+TRAIN-0092,2026-09-12,Email survey,5,Quality exceeded my expectations. I purchased this last month.,Product quality,positive
+TRAIN-0185,2026-09-09,Online store,4,I appreciated the hassle-free reimbursement. It was my first order.,Returns & refunds,positive
+TRAIN-0141,2026-09-13,Online store,5,The support team solved my issue immediately. This was for a gift.,Customer service,positive
+TRAIN-0115,2026-09-03,Retail store,3,Customer service provided standard instructions. This was for a gift.,Customer service,neutral
+TRAIN-0211,2026-09-03,Retail store,3,I browsed the online catalog and checked out. This was for a gift.,Website & checkout,neutral
+TRAIN-0144,2026-09-16,Email survey,4,The support team solved my issue immediately.,Customer service,positive
+TRAIN-0178,2026-09-02,Mobile app,4,The exchange process was smooth and convenient. I purchased this last month.,Returns & refunds,positive
+TRAIN-0010,2026-09-10,Mobile app,2,I had to chase the carrier twice for my package. I have been a customer for years.,Delivery,negative
+TRAIN-0183,2026-09-07,Retail store,5,The return was easy and my refund arrived quickly. I purchased this last month.,Returns & refunds,positive
+TRAIN-0066,2026-09-02,Mobile app,3,The item is usable and looks like the photos. I purchased this last month.,Product quality,neutral
+TRAIN-0022,2026-09-06,Mobile app,3,I received the delivery this morning.,Delivery,neutral
+TRAIN-0096,2026-09-16,Email survey,5,Excellent craftsmanship and a beautiful finish.,Product quality,positive
+TRAIN-0191,2026-09-15,Retail store,4,I appreciated the hassle-free reimbursement. I have been a customer for years.,Returns & refunds,positive
+TRAIN-0135,2026-09-07,Retail store,5,The support team solved my issue immediately. I purchased this last month.,Customer service,positive
+TRAIN-0174,2026-09-14,Mobile app,3,The refund policy is shown on the receipt. It was my first order.,Returns & refunds,neutral
+TRAIN-0068,2026-09-04,Email survey,3,The product matches the listed specifications. It was my first order.,Product quality,neutral
+TRAIN-0014,2026-09-14,Mobile app,2,Shipping took much longer than the estimated date. It was my first order.,Delivery,negative
+TRAIN-0051,2026-09-03,Retail store,1,The item broke after just one week. This was for a gift.,Product quality,negative
+TRAIN-0227,2026-09-03,Retail store,5,The website worked perfectly from browsing to payment. This was for a gift.,Website & checkout,positive
+TRAIN-0002,2026-09-02,Mobile app,1,"The delivery was delayed four days, which was frustrating. I purchased this last month.",Delivery,negative
+TRAIN-0226,2026-09-02,Mobile app,5,The app is intuitive and ordering was very easy. I purchased this last month.,Website & checkout,positive
+TRAIN-0107,2026-09-11,Retail store,1,Support never replied to my email.,Customer service,negative
+TRAIN-0028,2026-09-12,Email survey,3,I received the delivery this morning. I purchased this last month.,Delivery,neutral
+TRAIN-0029,2026-09-13,Online store,3,My package arrived on the expected day. This was for a gift.,Delivery,neutral
+TRAIN-0104,2026-09-08,Email survey,1,I was transferred between representatives four times. This was for a gift.,Customer service,negative
+TRAIN-0118,2026-09-06,Mobile app,3,Customer service provided standard instructions.,Customer service,neutral
+TRAIN-0044,2026-09-12,Email survey,5,The delivery tracking was clear and accurate. I purchased this last month.,Delivery,positive
+TRAIN-0142,2026-09-14,Mobile app,5,"The representative was patient, professional and helpful. It was my first order.",Customer service,positive
+TRAIN-0020,2026-09-04,Email survey,3,My package arrived on the expected day. It was my first order.,Delivery,neutral
+TRAIN-0210,2026-09-02,Mobile app,3,The website shows available payment options. I purchased this last month.,Website & checkout,neutral
+TRAIN-0202,2026-09-10,Mobile app,2,The app freezes whenever I try to place an order. I have been a customer for years.,Website & checkout,negative
+TRAIN-0095,2026-09-15,Retail store,5,Quality exceeded my expectations. I have been a customer for years.,Product quality,positive
+TRAIN-0145,2026-09-01,Online store,2,My refund is still pending after several weeks.,Returns & refunds,negative
+TRAIN-0032,2026-09-16,Email survey,3,My package arrived on the expected day.,Delivery,neutral
+TRAIN-0198,2026-09-06,Mobile app,1,Checkout crashed twice when I tried to pay.,Website & checkout,negative
+TRAIN-0043,2026-09-11,Retail store,5,My order arrived earlier than expected.,Delivery,positive
+TRAIN-0193,2026-09-01,Online store,1,Checkout crashed twice when I tried to pay.,Website & checkout,negative
+TRAIN-0155,2026-09-11,Retail store,2,My refund is still pending after several weeks.,Returns & refunds,negative
+TRAIN-0091,2026-09-11,Retail store,5,The product feels sturdy and carefully made.,Product quality,positive
+TRAIN-0007,2026-09-07,Retail store,1,"The delivery was delayed two days, which was frustrating. I purchased this last month.",Delivery,negative
+TRAIN-0149,2026-09-05,Online store,1,I sent the item back but have no reimbursement. I have been a customer for years.,Returns & refunds,negative
+TRAIN-0189,2026-09-13,Online store,5,The return was easy and my refund arrived quickly. This was for a gift.,Returns & refunds,positive
+TRAIN-0111,2026-09-15,Retail store,1,I waited days for a simple answer. I have been a customer for years.,Customer service,negative
+TRAIN-0069,2026-09-05,Online store,3,The item is usable and looks like the photos. I have been a customer for years.,Product quality,neutral
+TRAIN-0223,2026-09-15,Retail store,3,I browsed the online catalog and checked out. I have been a customer for years.,Website & checkout,neutral
+TRAIN-0134,2026-09-06,Mobile app,5,Fantastic service and a quick response.,Customer service,positive
+TRAIN-0225,2026-09-01,Online store,5,Checkout was quick and effortless.,Website & checkout,positive
+TRAIN-0076,2026-09-12,Email survey,3,The finish is acceptable for daily use. I purchased this last month.,Product quality,neutral
+TRAIN-0036,2026-09-04,Email survey,5,Delivery was incredibly fast and everything arrived safely. It was my first order.,Delivery,positive
+TRAIN-0229,2026-09-05,Online store,5,The app is intuitive and ordering was very easy. I have been a customer for years.,Website & checkout,positive
+TRAIN-0205,2026-09-13,Online store,1,My payment failed even though my card works elsewhere. This was for a gift.,Website & checkout,negative
+TRAIN-0009,2026-09-09,Online store,2,Shipping took much longer than the estimated date. It was my first order.,Delivery,negative
+TRAIN-0187,2026-09-11,Retail store,5,The exchange process was smooth and convenient.,Returns & refunds,positive
+TRAIN-0099,2026-09-03,Retail store,1,I was transferred between representatives four times. This was for a gift.,Customer service,negative
+TRAIN-0056,2026-09-08,Email survey,2,The item broke after just one week. This was for a gift.,Product quality,negative
+TRAIN-0128,2026-09-16,Email survey,3,I contacted customer support about my order.,Customer service,neutral
+TRAIN-0005,2026-09-05,Online store,1,I had to chase the carrier twice for my package. I have been a customer for years.,Delivery,negative
+TRAIN-0136,2026-09-08,Email survey,4,"The representative was patient, professional and helpful. This was for a gift.",Customer service,positive
+TRAIN-0124,2026-09-12,Email survey,3,Customer service provided standard instructions. I purchased this last month.,Customer service,neutral
+TRAIN-0098,2026-09-02,Mobile app,1,The agent was rude and did not resolve my issue. I purchased this last month.,Customer service,negative
+TRAIN-0152,2026-09-08,Email survey,2,I was charged for a return that should be free. This was for a gift.,Returns & refunds,negative
+TRAIN-0122,2026-09-10,Mobile app,3,I contacted customer support about my order. I have been a customer for years.,Customer service,neutral
+TRAIN-0151,2026-09-07,Retail store,2,The return label did not work and I received no help. I purchased this last month.,Returns & refunds,negative
+TRAIN-0030,2026-09-14,Mobile app,3,Shipping information was available in the account. It was my first order.,Delivery,neutral
+TRAIN-0197,2026-09-05,Online store,2,The app freezes whenever I try to place an order. I have been a customer for years.,Website & checkout,negative
+TRAIN-0049,2026-09-01,Online store,1,The stitching came apart after two uses.,Product quality,negative
+TRAIN-0113,2026-09-01,Online store,3,I contacted customer support about my order.,Customer service,neutral
+TRAIN-0048,2026-09-16,Email survey,4,Delivery was incredibly fast and everything arrived safely.,Delivery,positive
+TRAIN-0153,2026-09-09,Online store,1,The refund process is confusing and slow. It was my first order.,Returns & refunds,negative
+TRAIN-0064,2026-09-16,Email survey,2,The stitching came apart after two uses.,Product quality,negative
+TRAIN-0126,2026-09-14,Mobile app,3,The agent explained the return policy. It was my first order.,Customer service,neutral
+TRAIN-0011,2026-09-11,Retail store,2,My parcel arrived four days late and nobody updated me.,Delivery,negative
+TRAIN-0108,2026-09-12,Email survey,1,The agent was rude and did not resolve my issue. I purchased this last month.,Customer service,negative
+TRAIN-0081,2026-09-01,Online store,5,Excellent craftsmanship and a beautiful finish.,Product quality,positive
+TRAIN-0218,2026-09-10,Mobile app,3,I placed my order using the mobile application. I have been a customer for years.,Website & checkout,neutral
+TRAIN-0221,2026-09-13,Online store,3,I placed my order using the mobile application. This was for a gift.,Website & checkout,neutral
+TRAIN-0132,2026-09-04,Email survey,5,The support team solved my issue immediately. It was my first order.,Customer service,positive
+TRAIN-0238,2026-09-14,Mobile app,5,The app is intuitive and ordering was very easy. It was my first order.,Website & checkout,positive
+TRAIN-0103,2026-09-07,Retail store,2,The agent was rude and did not resolve my issue. I purchased this last month.,Customer service,negative
+TRAIN-0063,2026-09-15,Retail store,2,Quality was disappointing for the price. I have been a customer for years.,Product quality,negative
+TRAIN-0177,2026-09-01,Online store,4,The return was easy and my refund arrived quickly.,Returns & refunds,positive
+TRAIN-0120,2026-09-08,Email survey,3,The agent explained the return policy. This was for a gift.,Customer service,neutral
+TRAIN-0236,2026-09-12,Email survey,5,The website worked perfectly from browsing to payment. I purchased this last month.,Website & checkout,positive
+TRAIN-0083,2026-09-03,Retail store,4,Quality exceeded my expectations. This was for a gift.,Product quality,positive
+TRAIN-0062,2026-09-14,Mobile app,1,The product arrived scratched and poorly finished. It was my first order.,Product quality,negative
+TRAIN-0121,2026-09-09,Online store,3,Customer service provided standard instructions. It was my first order.,Customer service,neutral
+TRAIN-0079,2026-09-15,Retail store,3,The finish is acceptable for daily use. I have been a customer for years.,Product quality,neutral
+TRAIN-0040,2026-09-08,Email survey,5,My order arrived earlier than expected. This was for a gift.,Delivery,positive
+TRAIN-0184,2026-09-08,Email survey,4,The exchange process was smooth and convenient. This was for a gift.,Returns & refunds,positive
+TRAIN-0086,2026-09-06,Mobile app,5,Quality exceeded my expectations.,Product quality,positive
+TRAIN-0232,2026-09-08,Email survey,5,The app is intuitive and ordering was very easy. This was for a gift.,Website & checkout,positive
+TRAIN-0220,2026-09-12,Email survey,3,I browsed the online catalog and checked out. I purchased this last month.,Website & checkout,neutral
+TRAIN-0188,2026-09-12,Email survey,4,I appreciated the hassle-free reimbursement. I purchased this last month.,Returns & refunds,positive
